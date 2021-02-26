@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9CAA40E225E888410017A8D5 /* ChatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CAA40E125E888410017A8D5 /* ChatViewController.swift */; };
 		9CC3B42D25E5F26C00805BA8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC3B42C25E5F26C00805BA8 /* AppDelegate.swift */; };
 		9CC3B42F25E5F26C00805BA8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC3B42E25E5F26C00805BA8 /* SceneDelegate.swift */; };
 		9CC3B43125E5F26C00805BA8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC3B43025E5F26C00805BA8 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9CAA40E125E888410017A8D5 /* ChatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatViewController.swift; sourceTree = "<group>"; };
 		9CC3B42925E5F26C00805BA8 /* DemoProject1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoProject1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CC3B42C25E5F26C00805BA8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9CC3B42E25E5F26C00805BA8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				9CC3B42C25E5F26C00805BA8 /* AppDelegate.swift */,
 				9CC3B42E25E5F26C00805BA8 /* SceneDelegate.swift */,
+				9CAA40E125E888410017A8D5 /* ChatViewController.swift */,
 				9CC3B43025E5F26C00805BA8 /* ViewController.swift */,
 				9CC3B43225E5F26C00805BA8 /* Main.storyboard */,
 				9CC3B43525E5F26E00805BA8 /* Assets.xcassets */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CAA40E225E888410017A8D5 /* ChatViewController.swift in Sources */,
 				9CC3B43125E5F26C00805BA8 /* ViewController.swift in Sources */,
 				9CC3B42D25E5F26C00805BA8 /* AppDelegate.swift in Sources */,
 				9CC3B42F25E5F26C00805BA8 /* SceneDelegate.swift in Sources */,
