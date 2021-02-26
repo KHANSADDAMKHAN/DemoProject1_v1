@@ -23,6 +23,13 @@ class ViewController: UIViewController {
         print("Start chating!")
 
     }
+    
+    func chatEnd() {
+        
+        print("Start chating!")
+
+    }
+
 
 }
 
