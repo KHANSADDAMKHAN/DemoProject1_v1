@@ -29,6 +29,13 @@ class ViewController: UIViewController {
         print("Start chating!")
 
     }
+    
+    func chatRemove() {
+        
+        print("chatRemove func!")
+
+    }
+
 
 
 }
